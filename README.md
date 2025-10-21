@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Proj1" />
+  <img src="./.github/app.gif" alt="Projeto 1" />
 
   &#xa0;
 
@@ -9,19 +9,19 @@
 <h1 align="center">Projeto 1</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{pmguerre}}/proj1?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{pmguerre}}/STI2025-projeto1?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{pmguerre}}/proj1?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{pmguerre}}/STI2025-projeto1?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{pmguerre}}/proj1?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{pmguerre}}/STI2025-projeto1?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{pmguerre}}/proj1?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{pmguerre}}/STI2025-projeto1?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{pmguerre}}/proj1?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{pmguerre}}/STI2025-projeto1?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{pmguerre}}/proj1?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{pmguerre}}/STI2025-projeto1?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{pmguerre}}/proj1?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{pmguerre}}/STI2025-projeto1?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
